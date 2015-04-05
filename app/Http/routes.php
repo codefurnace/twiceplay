@@ -19,3 +19,11 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+
+Route::get('youtube',function() {
+
+	//test 
+
+	
+	return Youtube::search('soad');
+});
