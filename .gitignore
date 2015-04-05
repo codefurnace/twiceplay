@@ -4,3 +4,4 @@ config/database.php
 .env.php
 .env
 composer.phar
+config/youtube.php
