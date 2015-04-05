@@ -2,6 +2,5 @@ config/database.php
 /bootstrap/compiled.php
 .env.*.php
 .env.php
-.env
 composer.phar
 config/youtube.php
