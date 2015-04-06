@@ -4,7 +4,6 @@ home
 @stop
 
 @section('content')
-	<div class="ui button">
-  Follow
-</div>
+  <a class="btn-floating btn-large waves-effect waves-light red"><i class="mdi-content-add"></i></a>
+
 @stop
